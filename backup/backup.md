@@ -7,10 +7,12 @@ sudo apt install -y p7zip-full
 
 ## Backup with Dropbox CLI
 
-https://github.com/dropbox/dbxcli
+Pre-require: [Create a Dropbox account](https://db.tt/E5sIVShV)
 
 
 ### 1. Install Dropbox CLI
+
+https://github.com/dropbox/dbxcli
 
 ```bash
 # Install Dropbox CLI
