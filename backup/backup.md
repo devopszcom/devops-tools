@@ -49,7 +49,7 @@ By default, in cron environment:
 PATH=/usr/bin:/bin
 ```
 
-If you want to run the command located in /usr/local/bin, you need to update the cron environment variables as follows:
+If you want to run the command located in `/usr/local/bin`, you need to update the cron environment variables as follows:
 
 
 ```bash
